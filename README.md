@@ -4,11 +4,12 @@ This repository contains resources and code for my college coursework in Databas
 ![Untitled](https://user-images.githubusercontent.com/102630199/226848108-cd83216b-9311-47af-83de-9b43e8a3fc18.jpg)
 
 
-![Untitled](https://user-images.githubusercontent.com/102630199/226853838-0db1cfb4-4e63-46ef-ab2d-3bf43138adbb.png)
-
 DEPARTMENT OF COMPUTER ENGINEERING
+
 SCHOOL OF ENGINEERING SCIENCES
+
 COLLEGE OF BASIC & APPLIED SCIENCES
+
 FIRST SEMESTER 2021/2022 ACADEMIC YEAR
 
 Course Code and Title: CPEN 103 - Computer Engineering Innovations
